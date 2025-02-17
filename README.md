@@ -1,10 +1,10 @@
-# GenAI Engineering Bootcamp: Real-World AI Development
+# GenAI Engineering Bootcamp: Real-World AI Development 💻
 
 ## Overview
 
 Hello there, my name is Ashley and I’m currently enrolled in an **AI Engineering Bootcamp** designed to **bridge the gap between AI hype and practical implementation** by equipping participants with the skills to **build, optimize, and deploy real-world GenAI workloads.** Targeting professionals across all levels—from beginners to enterprise experts—the program follows a Maturity Model approach, ensuring progressive learning and hands-on experience in AI-powered applications, cloud services, and production deployment.
 
-## 🔍 The Problem This Bootcamp Solves
+## The Problem This Bootcamp Solves
 
 GenAI has been hyped due to massive VC investments, leading to confusion and unrealistic expectations in both technical and business circles. Many developers, directors, and executives lack clarity on AI's real capabilities, limitations, and implementation challenges. This bootcamp provides a structured pathway to:
 - Understand the AI landscape—its strengths, limitations, and practical applications.
